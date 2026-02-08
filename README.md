@@ -37,8 +37,9 @@ Mobile App Autonomous Agent 是一个基于多模态大语言模型的移动端�
 ### 安装步骤
 
 # 克隆项目
-git clone https://github.com/yourusername/mobile-app-autonomous-agent.git
-cd mobile-app-autonomous-agent
+git clone https://github.com/https-www-csaiagent-com/g-agent.git
+
+cd g-agent
 
 # 安装依赖
 pip install -r requirements.txt
