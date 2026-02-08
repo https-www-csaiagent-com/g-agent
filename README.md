@@ -1,4 +1,4 @@
-# Mobile App Autonomous Agent
+# g-agent
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
@@ -6,7 +6,7 @@
 
 ## 📱 项目简介
 
-Mobile App Autonomous Agent 是一个基于多模态大语言模型的移动端应用自主操作框架。该项目通过结合大语言模型（LLM）和视觉语言模型（VLM），实现了对移动设备的智能感知与自动化操作，能够自主完成复杂的应用交互任务。
+g-agent 是一个基于多模态大语言模型的移动端应用自主操作框架。该项目通过结合大语言模型（LLM）和视觉语言模型（VLM），实现了对移动设备的智能感知与自动化操作，能够自主完成复杂的应用交互任务。
 
 ## ✨ 核心特性
 
