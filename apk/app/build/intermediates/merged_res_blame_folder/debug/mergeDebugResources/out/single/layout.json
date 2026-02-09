@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.agent.mobileagent.app-mergeDebugResources-33:\\layout\\dialog_settings.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.agent.mobileagent.app-main-36:\\layout\\dialog_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.agent.mobileagent.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.agent.mobileagent.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.agent.mobileagent.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.agent.mobileagent.app-main-36:/layout/activity_main.xml"
+    }
+]

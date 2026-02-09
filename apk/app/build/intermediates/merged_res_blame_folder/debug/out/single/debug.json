@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.agent.mobileagent.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.agent.mobileagent.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.agent.mobileagent.app-merged_res-34:/xml_accessibility_service_config.xml.flat",
+        "source": "com.agent.mobileagent.app-main-36:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.agent.mobileagent.app-merged_res-34:/drawable_circle_indicator_green.xml.flat",
+        "source": "com.agent.mobileagent.app-main-36:/drawable/circle_indicator_green.xml"
+    },
+    {
+        "merged": "com.agent.mobileagent.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.agent.mobileagent.app-main-36:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.agent.mobileagent.app-merged_res-34:/drawable_log_background.xml.flat",
+        "source": "com.agent.mobileagent.app-main-36:/drawable/log_background.xml"
+    },
+    {
+        "merged": "com.agent.mobileagent.app-merged_res-34:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.agent.mobileagent.app-main-36:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.agent.mobileagent.app-merged_res-34:/drawable_circle_indicator.xml.flat",
+        "source": "com.agent.mobileagent.app-main-36:/drawable/circle_indicator.xml"
+    },
+    {
+        "merged": "com.agent.mobileagent.app-merged_res-34:/layout_dialog_settings.xml.flat",
+        "source": "com.agent.mobileagent.app-main-36:/layout/dialog_settings.xml"
+    }
+]

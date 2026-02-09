@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">智能手机助手</string>
+    <string name="accessibility_service_description">此服务用于自动执行手机操作，包括点击、滑动、输入文字等。请在无障碍设置中启用此服务以使用自动化功能。</string>
+    
+    <!-- 主界面 -->
+    <string name="hint_input_query">请输入您想让手机执行的任务...</string>
+    <string name="btn_start_task">开始执行</string>
+    <string name="btn_stop_task">停止任务</string>
+    <string name="btn_settings">设置</string>
+    
+    <!-- 状态提示 -->
+    <string name="status_idle">等待任务</string>
+    <string name="status_running">任务执行中...</string>
+    <string name="status_completed">任务完成</string>
+    <string name="status_error">执行出错</string>
+    
+    <!-- 设置 -->
+    <string name="settings_title">设置</string>
+    <string name="settings_server_url">服务器地址</string>
+    <string name="settings_accessibility">无障碍服务</string>
+    <string name="settings_accessibility_desc">点击前往设置开启无障碍服务</string>
+    
+    <!-- 通知 -->
+    <string name="notification_channel_name">Agent服务</string>
+    <string name="notification_title">智能助手运行中</string>
+    <string name="notification_content">正在执行自动化任务</string>
+</resources>

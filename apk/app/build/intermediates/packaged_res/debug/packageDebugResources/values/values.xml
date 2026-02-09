@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF4081</color>
+    <color name="background">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="error">#F44336</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="success">#4CAF50</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="warning">#FF9800</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="accessibility_service_description">此服务用于自动执行手机操作，包括点击、滑动、输入文字等。请在无障碍设置中启用此服务以使用自动化功能。</string>
+    <string name="app_name">智能手机助手</string>
+    <string name="btn_settings">设置</string>
+    <string name="btn_start_task">开始执行</string>
+    <string name="btn_stop_task">停止任务</string>
+    <string name="hint_input_query">请输入您想让手机执行的任务...</string>
+    <string name="notification_channel_name">Agent服务</string>
+    <string name="notification_content">正在执行自动化任务</string>
+    <string name="notification_title">智能助手运行中</string>
+    <string name="settings_accessibility">无障碍服务</string>
+    <string name="settings_accessibility_desc">点击前往设置开启无障碍服务</string>
+    <string name="settings_server_url">服务器地址</string>
+    <string name="settings_title">设置</string>
+    <string name="status_completed">任务完成</string>
+    <string name="status_error">执行出错</string>
+    <string name="status_idle">等待任务</string>
+    <string name="status_running">任务执行中...</string>
+    <style name="Theme.MobileAgent" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
